@@ -1,5 +1,5 @@
 # 描述
-使用CNN 迁移学习实现[Kaggle猫狗图像分类挑战](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/)，代码基于[TF Slim](https://github.com/tensorflow/models/tree/master/research/slim)。完整流程描述参见 https://zhuanlan.zhihu.com/p/62317034。
+使用CNN 迁移学习实现[Kaggle猫狗图像分类挑战](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/)，代码基于[TensorFlow Slim](https://github.com/tensorflow/models/tree/master/research/slim)。完整流程描述参见 https://zhuanlan.zhihu.com/p/62317034。
 
 ## 使用方法
 
