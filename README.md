@@ -10,7 +10,7 @@
 #### 清除异常数据
 训练图片中有些不是猫狗图片，会影响训练，删除此部分图片。
 #### 抽取验证集
-从 train 目录随机抽取部分验证集数据到 validation 目录作为验证集。
+从 train 目录随机抽取部分验证集数据到 validation 目录作为验证集，此部分代码参考 [train_with_validation.ipynb](train_with_validation.ipynb)中“构造验证数据集合”。
 ### 下载预训练模型 
 ```
 mkdir pre_train_model
